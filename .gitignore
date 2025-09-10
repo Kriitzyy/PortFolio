@@ -1,0 +1,12 @@
+# OS-filer
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor-filer
+.vscode/
+.idea/
+
+# Temporary files 
+Project.txt
+ToDo.txt
